@@ -44,13 +44,20 @@
 
 ### Selected work
 
-| Project | What it is |
-|---|---|
-| **Soar** <sub>(private)</sub> | 🥈 **2nd place, OpenAI hackathon.** An AI operating system for business travel: connects Slack, Teams, calendar, email, CRM and finance tools into a context graph to understand why each trip exists, then plans, approves, books and expenses it, and learns which trips drive outcomes |
-| [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | 🥉 **3rd place, Mistral AI hackathon.** A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI backend |
-| [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Maps UK companies into industry sectors with multi-view spectral clustering and LLM-generated sector taxonomies |
-| [LangChain + LangSmith Demo](https://github.com/yoitsmeivn/LangChain-Demo) | An instrumented LangChain agent, traced and evaluated with LangSmith |
-| [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
+**Soar** · 🥈 2nd place, OpenAI hackathon · <sub>private</sub><br />
+An AI operating system for business travel. Soar reads Slack, Teams, calendar, email, CRM and finance tools and links them into a context graph, so it knows *why* a trip is happening before anything is booked. It then builds the itinerary, routes approval, books, codes the expense, and afterwards learns which trips actually moved deals forward.
+
+**[Canard](https://github.com/yoitsmeivn/MistralAIHackathon)** · 🥉 3rd place, Mistral AI hackathon<br />
+A voice agent you talk to in the browser. A Python/FastAPI service sends each message to a Mistral-powered agent and streams the reply back as speech through ElevenLabs, with a typed API contract shared between backend and frontend.
+
+**[Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline)**<br />
+Turns messy data on UK companies into a clean, three-level sector taxonomy (broad → sub-sector → niche). Each company is embedded from six angles (services, business model, markets, name and domain, metadata, location), and the views are fused in a spectral clustering pipeline written from scratch. An LLM then names every cluster.
+
+**[Chinook Support Agent (LangChain + LangSmith)](https://github.com/yoitsmeivn/LangChain-Demo)**<br />
+A production-style customer support agent built on LangGraph and Claude. It handles music search, order history and refunds, with guards against SQL injection and access to other customers' data, human approval before any refund, and LangSmith tracing and evaluation, showing how to take an agent from demo to something you can trust.
+
+**[agentplan](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon)** · Snowflake × Beta Fund × Evermind agent & token economy hackathon<br />
+Cuts the cost of coding agents. Claude Code stays the planner and, through an MCP tool, hands well-defined subtasks to the cheapest model that can do them: Codex, or Qwen3-4B running locally. A live terminal dashboard tracks every delegated task and the money saved against an all-frontier baseline, and EverOS memory feeds lessons from past runs back into planning.
 
 Also: ML coursework from Imperial College London ([neural networks](https://github.com/yoitsmeivn/Artifical-Neural-Networks), [maths for ML](https://github.com/yoitsmeivn/Kryptonite-N)) and hackathon builds with H Company and YC.
 
