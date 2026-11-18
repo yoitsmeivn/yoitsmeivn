@@ -45,6 +45,7 @@
 - **AI for portfolio & business operations**: agents that run difficult, multi-step workflows end to end, from growth engineering and customer acquisition to back-office processes, with people in the loop where it matters
 - **AI brains, operating systems & harnesses**: shared memory, orchestration, agent harnesses, tools and guardrails, so many agents work as one system
 - **Retrieval & context graphs**: agentic RAG across documents and live sources, plus knowledge graphs that give each agent exactly the context it needs
+- **Backend, scaling & distributed systems**: APIs, queues, workers and data pipelines that keep AI products fast and reliable as usage grows
 
 ### Selected work
 
