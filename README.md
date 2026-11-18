@@ -1,7 +1,7 @@
 <h1 align="left">Ivan Severinov</h1>
 
 <p align="left">
-  <b>AI engineer in private markets &amp; startups.</b> I build agent systems: AI brains, AI operating systems, agentic RAG, and context graphs.
+  <b>AI engineer in private markets &amp; startups.</b> I build AI for operations and investment teams: agent systems that run real workflows end to end, and research tools that help investors see more and decide faster.
 </p>
 
 <p align="left">
@@ -37,18 +37,18 @@
 
 ### What I work on
 
-- **AI brains**: persistent memory and reasoning layers that let agents act on a firm's own knowledge
-- **AI operating systems**: orchestration, tools, and guardrails for teams of agents running real workflows
-- **Agentic RAG**: agents that plan their own retrieval across documents, data rooms, and live sources
-- **Context graphs**: entities and relationships modelled as graphs, so agents get exactly the context a task needs
+- **AI for investment teams**: sourcing, diligence and research copilots grounded in a firm's own data, filings and data rooms
+- **AI for operations**: agents that take back-office work from request to done (intake, approvals, bookings, reconciliation), with people in the loop where it matters
+- **AI brains & operating systems**: shared memory, orchestration, tools and guardrails, so many agents work as one system
+- **Retrieval & context graphs**: agentic RAG across documents and live sources, plus knowledge graphs that give each agent exactly the context it needs
 
 ### Selected work
 
 **Soar** · 🥈 2nd place, OpenAI hackathon · <sub>private</sub><br />
 An AI operating system for business travel. Soar reads Slack, Teams, calendar, email, CRM and finance tools and links them into a context graph, so it knows *why* a trip is happening before anything is booked. It then builds the itinerary, routes approval, books, codes the expense, and afterwards learns which trips actually moved deals forward.
 
-**[Canard](https://github.com/yoitsmeivn/MistralAIHackathon)** · 🥉 3rd place, Mistral AI hackathon<br />
-A voice agent you talk to in the browser. A Python/FastAPI service sends each message to a Mistral-powered agent and streams the reply back as speech through ElevenLabs, with a typed API contract shared between backend and frontend.
+**[Canard Security](https://github.com/yoitsmeivn/MistralAIHackathon)** · 🥉 3rd of ~70 teams, Mistral AI Worldwide Hackathon (SF)<br />
+A voice-phishing ("vishing") simulation platform. An AI agent calls employees over Twilio as an executive, IT support or a promotional caller, and adapts live to what they say, using Mistral for the conversation and ElevenLabs for the voice. Security teams load in real roles and reporting lines, so the calls feel real and expose weak spots before attackers find them.
 
 **[Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline)**<br />
 Turns messy data on UK companies into a clean, three-level sector taxonomy (broad → sub-sector → niche). Each company is embedded from six angles (services, business model, markets, name and domain, metadata, location), and the views are fused in a spectral clustering pipeline written from scratch. An LLM then names every cluster.
@@ -67,8 +67,21 @@ Also: ML coursework from Imperial College London ([neural networks](https://gith
   <img src="metrics.isocalendar.svg" alt="Contribution calendar for the past year" width="480" />
 </p>
 
-<p align="center">
-  <img src="metrics.languages.svg" alt="Most-used languages" />
-</p>
+### Hackathon wins
 
-<sub>Most of my work lives in private repositories. They count toward the charts above, but their names never appear.</sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🥈 2nd place · OpenAI hackathon</b><br />
+      <sub>Soar: infrastructure for business travel</sub><br /><br />
+      <img src="assets/soar-openai-2nd-place.jpg" alt="Soar landing page: Traveler context, unlocked. Infrastructure for travel." width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🥉 3rd place · Mistral AI Worldwide Hackathon</b><br />
+      <sub>Canard Security · <a href="https://news.ucsc.edu/2026/03/ucsc-trio-takes-third-at-2026-mistral-ai-hackathon-with-cybersecurity-platform/">UC Santa Cruz News coverage</a></sub><br /><br />
+      <a href="https://news.ucsc.edu/2026/03/ucsc-trio-takes-third-at-2026-mistral-ai-hackathon-with-cybersecurity-platform/"><img src="assets/mistral-3rd-place.jpg" alt="Anthony Lamas, Ivan Severinov and Daniel Perlov on stage after placing 3rd at the 2026 Mistral AI Worldwide Hackathon" width="100%" /></a>
+    </td>
+  </tr>
+</table>
+
+<sub>Most of my work lives in private repositories. It counts toward the calendar above, but repository names never appear.</sub>
