@@ -8,7 +8,24 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral AI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-6E40C9?style=flat-square" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <br />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 <!--
@@ -27,18 +44,18 @@
 
 | Project | What it is |
 |---|---|
-| [BloomAI](https://github.com/yoitsmeivn/Bluum-Anthropic-Claude-Hackathon) | A large language model built from scratch for financial data, quantitative analysis, and market research |
-| [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI and Next.js (Mistral AI hackathon) |
-| [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
-| [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Multi-view spectral clustering with LLM-assisted taxonomy generation |
+| [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | 🥈 **2nd place, Mistral AI hackathon.** A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI and Next.js |
+| [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Maps UK companies into industry sectors with multi-view spectral clustering and LLM-generated sector taxonomies |
 | [LangChain + LangSmith Demo](https://github.com/yoitsmeivn/LangChain-Demo) | An instrumented LangChain agent, traced and evaluated with LangSmith |
+| [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
+| [BloomAI](https://github.com/yoitsmeivn/Bluum-Anthropic-Claude-Hackathon) | A large language model built from scratch for financial data, quantitative analysis, and market research |
 
 Also: ML coursework from Imperial College London ([neural networks](https://github.com/yoitsmeivn/Artifical-Neural-Networks), [maths for ML](https://github.com/yoitsmeivn/Kryptonite-N)) and hackathon builds with H Company and YC.
 
 ### Activity
 
 <p align="center">
-  <img src="metrics.isocalendar.svg" alt="Contribution calendar for the past year" width="100%" />
+  <img src="metrics.isocalendar.svg" alt="Contribution calendar for the past year" width="480" />
 </p>
 
 <p align="center">
