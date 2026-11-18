@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Agentic_RAG-6E40C9?style=flat-square" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0B7285?style=flat-square" alt="Vector databases" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <br />
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 <!--
@@ -44,7 +46,8 @@
 
 | Project | What it is |
 |---|---|
-| [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | 🥈 **2nd place, Mistral AI hackathon.** A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI and Next.js |
+| [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | 🥉 **3rd place, Mistral AI hackathon.** A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI backend |
+| **Soar** <sub>(private)</sub> | An AI operating system for business travel: connects Slack, Teams, calendar, email, CRM and finance tools into a context graph to understand why each trip exists, then plans, approves, books and expenses it, and learns which trips drive outcomes |
 | [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Maps UK companies into industry sectors with multi-view spectral clustering and LLM-generated sector taxonomies |
 | [LangChain + LangSmith Demo](https://github.com/yoitsmeivn/LangChain-Demo) | An instrumented LangChain agent, traced and evaluated with LangSmith |
 | [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
