@@ -62,10 +62,6 @@ Also: ML coursework from Imperial College London ([neural networks](https://gith
 </p>
 
 <p align="center">
-  <img src="metrics.calendar.svg" alt="Contribution heatmap by year" />
-</p>
-
-<p align="center">
   <img src="metrics.languages.svg" alt="Most-used languages" />
 </p>
 
