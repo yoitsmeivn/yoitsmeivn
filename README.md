@@ -1,7 +1,7 @@
 <h1 align="left">Ivan Severinov</h1>
 
 <p align="left">
-  <b>AI engineer in private markets &amp; startups.</b> I build AI for operations and investment teams: agent systems that run real workflows end to end, and research tools that help investors see more and decide faster.
+  <b>AI engineer in private markets &amp; startups.</b> I build AI for operations, growth and the wider business: agent systems that run real workflows end to end, growth engines that find and win customers, and research tools that help teams decide faster.
 </p>
 
 <p align="left">
@@ -41,8 +41,9 @@
 
 ### What I work on
 
-- **AI for investment teams**: sourcing, diligence and research copilots grounded in a firm's own data, filings and data rooms
 - **AI for operations**: agents that take back-office work from request to done (intake, approvals, bookings, reconciliation), with people in the loop where it matters
+- **Growth engineering**: AI-driven pipelines that source, enrich and match prospects, then power outreach and track what converts
+- **AI for business & investment teams**: research, diligence and decision-support copilots grounded in a company's own data, filings and data rooms
 - **AI brains & operating systems**: shared memory, orchestration, tools and guardrails, so many agents work as one system
 - **Retrieval & context graphs**: agentic RAG across documents and live sources, plus knowledge graphs that give each agent exactly the context it needs
 
