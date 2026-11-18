@@ -43,7 +43,7 @@
 
 - **AI for investment teams**: research, diligence and decision-support copilots grounded in a company's own data, filings and data rooms
 - **AI for portfolio & business operations**: agents that run difficult, multi-step workflows end to end, from growth engineering and customer acquisition to back-office processes, with people in the loop where it matters
-- **AI brains & operating systems**: shared memory, orchestration, tools and guardrails, so many agents work as one system
+- **AI brains, operating systems & harnesses**: shared memory, orchestration, agent harnesses, tools and guardrails, so many agents work as one system
 - **Retrieval & context graphs**: agentic RAG across documents and live sources, plus knowledge graphs that give each agent exactly the context it needs
 
 ### Selected work
