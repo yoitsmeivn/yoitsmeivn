@@ -46,8 +46,8 @@
 
 | Project | What it is |
 |---|---|
+| **Soar** <sub>(private)</sub> | 🥈 **2nd place, OpenAI hackathon.** An AI operating system for business travel: connects Slack, Teams, calendar, email, CRM and finance tools into a context graph to understand why each trip exists, then plans, approves, books and expenses it, and learns which trips drive outcomes |
 | [Canard](https://github.com/yoitsmeivn/MistralAIHackathon) | 🥉 **3rd place, Mistral AI hackathon.** A voice agent web service: Mistral-powered replies, ElevenLabs speech, FastAPI backend |
-| **Soar** <sub>(private)</sub> | An AI operating system for business travel: connects Slack, Teams, calendar, email, CRM and finance tools into a context graph to understand why each trip exists, then plans, approves, books and expenses it, and learns which trips drive outcomes |
 | [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Maps UK companies into industry sectors with multi-view spectral clustering and LLM-generated sector taxonomies |
 | [LangChain + LangSmith Demo](https://github.com/yoitsmeivn/LangChain-Demo) | An instrumented LangChain agent, traced and evaluated with LangSmith |
 | [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
