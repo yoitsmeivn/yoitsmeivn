@@ -51,7 +51,6 @@
 | [Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline) | Maps UK companies into industry sectors with multi-view spectral clustering and LLM-generated sector taxonomies |
 | [LangChain + LangSmith Demo](https://github.com/yoitsmeivn/LangChain-Demo) | An instrumented LangChain agent, traced and evaluated with LangSmith |
 | [Agent & Token Economy](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon) | Snowflake × Beta Fund × Evermind hackathon build |
-| [BloomAI](https://github.com/yoitsmeivn/Bluum-Anthropic-Claude-Hackathon) | A large language model built from scratch for financial data, quantitative analysis, and market research |
 
 Also: ML coursework from Imperial College London ([neural networks](https://github.com/yoitsmeivn/Artifical-Neural-Networks), [maths for ML](https://github.com/yoitsmeivn/Kryptonite-N)) and hackathon builds with H Company and YC.
 
