@@ -45,19 +45,19 @@
 ### Selected work
 
 **Soar** · 🥈 2nd place, OpenAI hackathon · <sub>private</sub><br />
-An AI operating system for business travel. Soar reads Slack, Teams, calendar, email, CRM and finance tools and links them into a context graph, so it knows *why* a trip is happening before anything is booked. It then builds the itinerary, routes approval, books, codes the expense, and afterwards learns which trips actually moved deals forward.
+AI operating system for business travel: links Slack, calendar, CRM and finance into a context graph, then plans, approves, books and expenses each trip.
 
 **[Canard Security](https://github.com/yoitsmeivn/MistralAIHackathon)** · 🥉 3rd of ~70 teams, Mistral AI Worldwide Hackathon (SF)<br />
-A voice-phishing ("vishing") simulation platform. An AI agent calls employees over Twilio as an executive, IT support or a promotional caller, and adapts live to what they say, using Mistral for the conversation and ElevenLabs for the voice. Security teams load in real roles and reporting lines, so the calls feel real and expose weak spots before attackers find them.
+Voice-phishing simulation: an AI agent calls employees as an exec or IT support and adapts live, exposing social-engineering risk before attackers do.
 
 **[Multi-View Industrial Clustering](https://github.com/yoitsmeivn/Multi-View-Industrial-Clustering-Semantic-Labeling-Pipeline)**<br />
-Turns messy data on UK companies into a clean, three-level sector taxonomy (broad → sub-sector → niche). Each company is embedded from six angles (services, business model, markets, name and domain, metadata, location), and the views are fused in a spectral clustering pipeline written from scratch. An LLM then names every cluster.
+Sorts UK companies into a three-level sector taxonomy using six embedding views, spectral clustering built from scratch, and LLM-named clusters.
 
 **[Chinook Support Agent (LangChain + LangSmith)](https://github.com/yoitsmeivn/LangChain-Demo)**<br />
-A production-style customer support agent built on LangGraph and Claude. It handles music search, order history and refunds, with guards against SQL injection and access to other customers' data, human approval before any refund, and LangSmith tracing and evaluation, showing how to take an agent from demo to something you can trust.
+Production-style support agent on LangGraph and Claude, with injection guards, human approval for refunds, and LangSmith tracing and evals.
 
 **[agentplan](https://github.com/yoitsmeivn/Snowflake-Agent-Token-Hackathon)** · Snowflake × Beta Fund × Evermind agent & token economy hackathon<br />
-Cuts the cost of coding agents. Claude Code stays the planner and, through an MCP tool, hands well-defined subtasks to the cheapest model that can do them: Codex, or Qwen3-4B running locally. A live terminal dashboard tracks every delegated task and the money saved against an all-frontier baseline, and EverOS memory feeds lessons from past runs back into planning.
+Cuts coding-agent costs: Claude Code plans and delegates simple subtasks to cheaper models (Codex, local Qwen3-4B), with live savings tracking.
 
 Also: ML coursework from Imperial College London ([neural networks](https://github.com/yoitsmeivn/Artifical-Neural-Networks), [maths for ML](https://github.com/yoitsmeivn/Kryptonite-N)) and hackathon builds with H Company and YC.
 
